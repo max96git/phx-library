@@ -17,7 +17,7 @@ PHX simplifies your work while building 3D web experiences by providing function
 Download the minified library from `phx.min.js`.
 Include it in your project:
 
-`<script src="phx.min.js"></script>`
+`<script src="https://raw.githubusercontent.com/max96git/phx-library/main/phx.min.js"></script>`
 
 ## Basic Usage
 ### Setup
